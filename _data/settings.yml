@@ -13,7 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Persoonlijke pagina van Jochem Pinxteren, regisseur, programmameken, journalist.'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -42,12 +42,11 @@ disqus:
 about: >
   # Portfolio Jekyll Theme
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-
+  Dit is het portfolio van Jochem Pinxteren.
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Neem contact op [per email](mailto:jpinxteren@gmail.com) of [twitter](https://twitter.com/pinxteren).
 
 #-------------------------------
 # Work Section
@@ -63,9 +62,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
+- {icon: 'twitter', link: 'www.twitter.com/pinxteren'}
 - {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
+- {icon: 'github', link: 'www.github.com/jpinxteren'}
 - {icon: 'linkedin', link: '#'}
 - {icon: 'envelope', link: 'mailto:#'}
 
