@@ -1,3 +1,7 @@
+---
+layout: post
+title: 'Rambam'
+---
 # Rambam
 
 *’Dat ongelooflijk verschrikkelijke programma’* - Rob Geus
