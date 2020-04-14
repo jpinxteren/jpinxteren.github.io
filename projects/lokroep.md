@@ -1,3 +1,7 @@
+---
+layout: post
+title: 'De Lokroep'
+---
 # De Lokroep
 
 Kroniek van de Nederlandse jihad. 
