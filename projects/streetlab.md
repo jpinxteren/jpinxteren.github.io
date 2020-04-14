@@ -1,3 +1,7 @@
+---
+layout: post
+title: 'Streetlab'
+---
 # Streetlab
 
 *’Een scherpe vraag over menselijk gedrag vervat in een geestig straatexperiment’* - de Volkskrant
