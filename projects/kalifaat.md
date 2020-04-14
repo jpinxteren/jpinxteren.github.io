@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'De verloren kinderen van het Kalifaat'
 ---
 # De verloren kinderen van het Kalifaat
