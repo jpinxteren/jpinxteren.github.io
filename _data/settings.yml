@@ -69,9 +69,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'www.twitter.com/pinxteren'}
+- {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: '#'}
-- {icon: 'github', link: 'www.github.com/jpinxteren'}
+- {icon: 'github', link: '#'}
 - {icon: 'linkedin', link: '#'}
 - {icon: 'envelope', link: 'mailto:#'}
 
