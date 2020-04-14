@@ -8,4 +8,4 @@ title: 'Planeet Nigeria'
 
 Zesdelige reisserie over Nigeria, het land in West-Afrika waar alles groter, gekker en heftiger lijkt. Gepresenteerd door Ikenna Azuike.
 
-{% include image.html image="projects/planeetnigeria/planeetnigeria.jpg" %}
+{% include image.html image="projects/planeetnigeria/planeet_nigeria.jpg" %}
