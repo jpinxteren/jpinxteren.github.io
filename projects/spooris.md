@@ -1,3 +1,7 @@
+---
+layout: post
+title: 'In het Spoor van IS'
+---
 # In het Spoor van IS
 
 *’In het spoor van IS is een product van moed, empathie en vertelkunst. Fantastisch, en afschuwelijk tegelijk…Huiveringwekkend meesterstuk.’* - de Volkskrant
