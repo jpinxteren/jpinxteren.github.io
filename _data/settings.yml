@@ -58,7 +58,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'De Lokroep', folder: 'lokroep', file: 'projects/lokroep.md'}
+- {name: 'De Lokroep', folder: 'lokroep', file: 'projects/lokroep.html'}
 - {name: 'Planeet Nigeria', folder: 'planeetnigeria', file: 'projects/planeetnigeria.html'}
 - {name: 'De verloren kinderen van het Kalifaat', folder: 'kalifaat', file: 'projects/kalifaat.html'}
 - {name: 'In het spoor van IS', folder: 'spooris', file: 'projects/spooris.html'}
