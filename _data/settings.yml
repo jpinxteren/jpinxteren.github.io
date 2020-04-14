@@ -55,7 +55,7 @@ projects:
 - {name: 'De Lokroep', folder: 'lokroep', file: 'projects/lokroep.html'}
 - {name: 'Planeet Nigeria', folder: 'planeetnigeria', file: 'projects/planeetnigeria.html'}
 - {name: 'De verloren kinderen van het Kalifaat', folder: 'kalifaat', file: 'projects/kalifaat.html'}
-- {name: 'In het spoor van IS', folder: 'spooris', file: 'projects/spoorIS.html'}
+- {name: 'In het spoor van IS', folder: 'spooris', file: 'projects/spooris.html'}
 - {name: 'Danny in Arabistan', folder: 'arabistan', file: 'projects/arabistan.html'}
 - {name: 'Streetlab', folder: 'streetlab', file: 'projects/streetlab.html'}
 - {name: 'Rambam', folder: 'rambam', file: 'projects/rambam.html'}
