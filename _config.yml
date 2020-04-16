@@ -12,6 +12,12 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Jochem Pinxteren"
-description:	       "portfolio website van Jochem Pinxteren"
-author:              "Jochem Pinxteren"
+title:		           Jochem Pinxteren
+description:	       portfolio website van Jochem Pinxteren
+author:              Jochem Pinxteren
+
+
+name: Jochem Pinxteren
+email: jpinxteren@gmail.com
+twitter: pinxteren
+github: jpinxteren.github.io
